@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2020 ArrowOS
+# Copyright (C) 2021 CarbonROM
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_ginkgo.mk
+    $(LOCAL_DIR)/carbon_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_ginkgo-user \
-    arrow_ginkgo-userdebug \
-    arrow_ginkgo-eng
+    carbon_ginkgo-user \
+    carbon_ginkgo-userdebug \
+    carbon_ginkgo-eng

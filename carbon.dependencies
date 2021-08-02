@@ -1,0 +1,6 @@
+[
+    {
+        "repository":   "CarbonROM/android_kernel_xiaomi_ginkgo",
+        "target_path":  "kernel/xiaomi/ginkgo"
+    }
+]
