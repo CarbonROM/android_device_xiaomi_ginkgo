@@ -375,6 +375,9 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     kernel/xiaomi/ginkgo
 
+# Soong namespaces
+QCOM_SOONG_NAMESPACE := $(LOCAL_PATH)/hardware
+
 # Telephony
 PRODUCT_PACKAGES += \
     qti-telephony-hidl-wrapper \
